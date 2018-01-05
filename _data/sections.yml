@@ -1,5 +1,5 @@
 projects:
-  url: /projects
+  url: /pwebpage/projects
   heading: Projects
   words: A list of projects and experiments
   class: m7 projects
